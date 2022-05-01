@@ -1,17 +1,17 @@
 # Unit 21: Martian Token Crowdsale
 
-![alt=""](Evidence_Folder/image1.jpg)
+![alt=""](image1.jpg)
 
 ## Background
-![alt=""](Evidence_Folder/image2.jpg
+![alt=""](image2.jpg)
 
 ## Files
 
-![alt=""](Evidence_Folder/image3.jpg)
+![alt=""](image3.jpg)
 
-![alt=""](Evidence_Folder/image4.jpg)
+![alt=""](image4.jpg)
 
-![alt=""](Evidence_Folder/image5.jpg)
+![alt=""](image5.jpg)
 
 ## Instructions
 
