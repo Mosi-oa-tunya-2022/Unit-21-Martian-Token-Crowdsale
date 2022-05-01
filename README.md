@@ -16,7 +16,7 @@ Completed Starter Files:
 
 [KaseiCoinCrowdsale.sol](./Starter_Code/KaseiCoinCrowdsale.com)
 
-[Evidence ReadMe](./Starter_Code/Evidence_Folder/readme.md)
+[Evidence ReadMe](./Starter_Code/Evidence_Folder/README.md)
 
 ---
 
